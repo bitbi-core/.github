@@ -1,15 +1,32 @@
 # Hi there, I'm Bitbi Core 👋
 
-Bitbi Core is an open-source project that focuses on creating a decentralized and secure platform for digital assets. Our mission is to provide a reliable and efficient system for the exchange, storage, and management of digital assets.
+Bitbi Core is an open-source project that bases on bitcoin and aims to be more decentralized and secure than bitcoin.
+
+Bitbi Core try to achieve the following goals:
+
+1. let any one can run a full node on their own computer or even their own mobile devices.
+2. let any one can mine on their own computer or even their own mobile devices.
+3. let any one can chat with others in a decentralized way and without any traces.
+4. let any one can store and retrieve their files in a decentralized way and without any traces.
+5. more to be continued...
+
+we are working hard to achieve these goals by the following steps:
+
+- [x] A POW algorithm that can be mined and in favor to be mined on a normal computer or even a mobile device;
+- :hammer_and_wrench: An all-in-one wallet supporting windows and linux;
+- :hammer_and_wrench: Atomic swap;
+- [ ] A decentralized chat system;
+- [ ] A decentralized file storage system;
 
 ## 🚀 What we do
 
 At Bitbi Core, we are dedicated to:
 
 - Developing a robust and secure blockchain platform.
-- Providing a decentralized exchange for digital assets.
-- Creating a secure wallet for storing and managing digital assets.
-- Ensuring the privacy and security of all transactions on our platform.
+- Providing a decentralized and secure environment for users to interact.
+- Ensuring that our platform is accessible to everyone.
+- Collaborating with other developers and organizations to improve the blockchain ecosystem.
+
 
 ## 🌐 Visit us
 
