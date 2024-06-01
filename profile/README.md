@@ -38,6 +38,6 @@ We welcome contributions from everyone. If you're interested in contributing, pl
 
 ## 📫 Contact us
 
-If you have any questions or suggestions, feel free to reach out to us. You can contact us through our website or send us an email at support@bitbi.org.
+If you have any questions or suggestions, feel free to reach out to us. You can contact us through our website or send us an email at imnotsatosh@proton.me
 
 Thank you for visiting our GitHub profile. We look forward to working with you!
