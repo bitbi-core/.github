@@ -1,15 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Bitbi Core 👋
 
-<!--
+Bitbi Core is an open-source project that focuses on creating a decentralized and secure platform for digital assets. Our mission is to provide a reliable and efficient system for the exchange, storage, and management of digital assets.
 
-**Here are some ideas to get you started:**
+## 🚀 What we do
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At Bitbi Core, we are dedicated to:
 
-[bitbi.org.website](https://github.com/bitbi-core/bitbi.org.website)
-[golden-wallet](https://github.com/bitbi-core/golden-wallet)
+- Developing a robust and secure blockchain platform.
+- Providing a decentralized exchange for digital assets.
+- Creating a secure wallet for storing and managing digital assets.
+- Ensuring the privacy and security of all transactions on our platform.
+
+## 🌐 Visit us
+
+For more information about our work, please visit our website at [bitbi.org](https://www.bitbi.org/).
+
+## 🤝 Contribute
+
+We welcome contributions from everyone. If you're interested in contributing, please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guide.
+
+## 📫 Contact us
+
+If you have any questions or suggestions, feel free to reach out to us. You can contact us through our website or send us an email at support@bitbi.org.
+
+Thank you for visiting our GitHub profile. We look forward to working with you!
